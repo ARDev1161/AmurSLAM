@@ -1,0 +1,6 @@
+[submodule "localmap"]
+	path = localmap
+	url = https://github.com/ARDev1161/localmap
+[submodule "rplidar_sdk"]
+	path = rplidar_sdk
+	url = https://github.com/ARDev1161/rplidar_sdk
