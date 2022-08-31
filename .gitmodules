@@ -4,3 +4,6 @@
 [submodule "rplidar_sdk"]
 	path = rplidar_sdk
 	url = https://github.com/ARDev1161/rplidar_sdk
+[submodule "SPM"]
+	path = SPM
+	url = https://github.com/lllaxmatist/SPM
